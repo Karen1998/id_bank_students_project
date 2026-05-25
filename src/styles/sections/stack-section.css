@@ -69,20 +69,19 @@
   object-fit: contain;
 }
 
-/* ── Freedom Broker overrides ───────────────────────────────────────── */
-.freedom-broker.stack-section {
+/* ── ID Bank overrides ───────────────────────────────────────── */
+.id-bank.stack-section {
   background-color: #ffffff;
 }
 
-.freedom-broker .stack-section__label {
-  /* background-color: #51af3d; */
-  background-color: #0f5431;
+.id-bank .stack-section__label {
+  background-color: #f58220;
   color: #ffffff;
   padding: var(--space-1) var(--space-3);
 }
 
-.freedom-broker .stack-section__text {
-  color: #000000;
+.id-bank .stack-section__text {
+  color: #6b6b6b;
 }
 
 /* ── Responsive ───────────────────────────────────────────── */
